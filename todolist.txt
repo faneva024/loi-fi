@@ -1,0 +1,4 @@
+-Recolte de donnees 
+-Creation database
+-Refactorisation
+-Suite 
