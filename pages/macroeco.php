@@ -96,7 +96,7 @@ include('../inc/fonction.php');
 </div>
 </main>
 
-<footer>
+ <footer>
     <div class="footer-container">
       <div class="footer-links">
         <h4>Quick Links</h4>
@@ -109,7 +109,8 @@ include('../inc/fonction.php');
     
       <div class="footer-contact">
         <h4>Contact Us</h4>
-        <p>Email: support@datatablesco.com</p>
+        <p>Email: jimmyrandriambololona@gmail.com</p>
+        <p>Email: fanevaratovoniaina@gmail.com</p>
         <p>Phone: (123) 456-7890</p>
       </div>
     </div>
